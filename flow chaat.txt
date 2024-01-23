@@ -1,0 +1,84 @@
++----------------+
+| Start Program  |
++----------------+
+        |
+        v
++----------------------+
+| Initialize Pygame    |
+| Set Constants        |
+| Create Paddle Class  |
+| Create Ball Class    |
++----------------------+
+        |
+        v
++----------------------+
+|    Main Function     |
+|   - Initialize       |
+|   - Game Loop        |
+|   - Event Handling   |
+|   - Paddle Movement  |
+|   - Ball Movement    |
+|   - Collision        |
+|   - Score Tracking   |
+|   - Win Condition    |
++----------------------+
+        |
+        v
++----------------------+
+|  Paddle Class        |
+|   - Properties       |
+|   - Methods          |
+|   - Draw Function    |
++----------------------+
+        |
+        v
++----------------------+
+|   Ball Class         |
+|   - Properties       |
+|   - Methods          |
+|   - Draw Function    |
++----------------------+
+        |
+        v
++----------------------+
+|  Draw Function       |
+|   - Draw Background  |
+|   - Draw Paddles     |
+|   - Draw Ball        |
+|   - Draw Scores       |
+|   - Draw Win Message  |
++----------------------+
+        |
+        v
++----------------------+
+|   Event Handling     |
+|   - Quit Game        |
++----------------------+
+        |
+        v
++----------------------+
+|   Handle Paddle      |
+|   - Movement         |
++----------------------+
+        |
+        v
++----------------------+
+|  Handle Collision    |
+|   - Wall Collision   |
+|   - Paddle Collision |
++----------------------+
+        |
+        v
++----------------------+
+|  Update Display      |
++----------------------+
+        |
+        v
++----------------------+
+|  Frame Rate Control  |
++----------------------+
+        |
+        v
++----------------------+
+|   End Program        |
++----------------------+
